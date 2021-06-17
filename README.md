@@ -22,9 +22,9 @@ Hi, I'm Pedro Henrique and I was born and raised on Brazil. I'm enthusiastic abo
 <br>
 
 <p align="center">
-"Don't find a fault find a remedy"
+<strong>"Don't find a fault find a remedy"</strong>
 <br>
-"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."
+<strong>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." </strong>
 <br>
         <strong> • Henry Ford </strong>
     </p>
