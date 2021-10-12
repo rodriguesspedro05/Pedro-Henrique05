@@ -1,5 +1,5 @@
  <p align="center">
-    <img windth="250"; src="https://radio.x-team.com/static/media/mario.28e65fd9.gif">
+    <img windth="250"; src="https://github.com/Pedro-Henrique05/Pedro-Henrique05/blob/main/nasa.png">
 
 ### 📚 About me:
 Hi, I'm Pedro Henrique and I was born and raised on Brazil. I'm enthusiastic about programming, technologies and ethical hacking.
