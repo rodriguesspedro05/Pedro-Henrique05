@@ -1,5 +1,5 @@
 <p align="center">
-    <img windth="250"; src="https://github.com/Pedro-Henrique05/Pedro-Henrique05/blob/main/home.svg">
+    <img windth="200"; src="https://github.com/Pedro-Henrique05/Pedro-Henrique05/blob/main/home.svg">
 
 Olá, me chamo Pedro Henrique. Sou <b>UI/UX Designer</b> e <b>Progrmador</b>.
 <br>
