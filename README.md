@@ -1,7 +1,7 @@
 <p align="center">
     <img src="home.svg" min-width="500px" max-width="500px" width="500px" align="right" src="https://github.com/Pedro-Henrique05/Pedro-Henrique05/blob/main/home.svg">
 
-Olá, me chamo Pedro Henrique. Sou <b>UI/UX Designer</b> e <b>Progrmador</b>.
+Olá 👋 me chamo Pedro Henrique. Sou <b>UI/UX Designer</b> e <b>Progrmador</b>.
 <br>
 
 ### 🛠 Ferramentas que utilizo:
