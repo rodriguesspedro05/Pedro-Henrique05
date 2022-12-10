@@ -21,4 +21,5 @@ Hi, I'm Pedro Henrique and I was born and raised on Brazil. I'm enthusiastic abo
 
 <br>
 <br>
-> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. ~ Henry Ford
+
+> "*When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.*" - Henry Ford
