@@ -1,23 +1,20 @@
- <p align="center">
+<p align="center">
     <img windth="250"; src="https://github.com/Pedro-Henrique05/Pedro-Henrique05/blob/main/nasa.png">
 
-### 📚 About me:
-Hi, I'm Pedro Henrique and I was born and raised on Brazil. I'm enthusiastic about programming, technologies and ethical hacking.
+Olá, me chamo Pedro Henrique. Sou <b>UI/UX Designer</b> e <b>Progrmador</b>.
+<br>
 
-### 🛠💻 Technologies that I'm learning:
+### 🛠💻 Ferramentas que utilizo:
+- Figma
+- VSCode
+- GitHub
 
+### 💻 Programas/Linguagens que estou aprendendo:
 - HTML
-- Node.js
-- CSS3
+- CSS
 - Javascript
 - Python
 - C++
-
-### 📚💻 Places that I'm learning programming:
-
-- [🖖Curso em Vídeo](https://www.cursoemvideo.com/)
-- [🚀Rocketseat](https://app.rocketseat.com.br/)
-- [🐺Origamid](https://www.origamid.com/)
 
 <br>
 <br>
