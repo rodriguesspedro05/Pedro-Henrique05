@@ -4,7 +4,7 @@
 Olá, sou Pedro Henrique. Sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Tenho conhecimentos na área de <b> UX/UI design e Programação Web.</b>.
 <br>
 
-### 🛠 Ferramentas que utilizo:
+### 🛠 Ferramentas que possuo conhecimento:
 - Figma
 - VSCode
 - HTML
